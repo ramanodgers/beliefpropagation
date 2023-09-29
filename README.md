@@ -1,5 +1,5 @@
 # beliefpropagation
-A subset of work investigating belief propagation decoders for classical codeword, classical syndrome, quantum syndrome, and neural quantum syndrome contexts. Much of the background work was done before the github repository. Additionally, protected IP is not visible. 
+A snapshot of work investigating belief propagation decoders for classical codeword, classical syndrome, quantum syndrome, and neural quantum syndrome contexts. Much of the background work was done before the github repository. Additionally, later work using protected IP is not visible. 
 
 ## demo
 A demonstration of various decoders is hosted on huggingface: [here](https://huggingface.co/spaces/ramanodgers/BeliefPropagationDemo). The source files are also stored in the demo subfolder in this github repo. 
